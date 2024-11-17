@@ -22,4 +22,4 @@ This project demonstrates how to create a dynamic, visually appealing clock usin
 1. **Clone or Download the Project**:
    To get started, you can clone or download this project from GitHub.
    ```bash
-   git clone https://github.com/yourusername/dynamic-clock-graphics.git
+   git clone https://github.com/pravallika-nunna/dynamic-clock-graphics.git
